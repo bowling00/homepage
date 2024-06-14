@@ -1,8 +1,8 @@
 export const SITE_FAVICON = "/favicon.png";
 export const SITE_LOGO = "/avatar.png";
-export const SITE_TITLE = "dvlin";
+export const SITE_TITLE = "dvlin's blog";
 export const SITE_DESCRIPTION =
-  "dvlin is designed to be minimalist yet powerful, integrating the capabilities of Astro, MDX, and Rough Notation. Whether you're a developer, writer, or just someone who loves clean and efficient design, this theme is perfect for you.";
+  "dvlin's blog, sharing technology, life, and thoughts。张保林的博客，分享技术、生活和思考。";
 
 export const MENUS = [
   {
@@ -21,12 +21,22 @@ export const MENUS = [
     target: "_self",
   },
   {
+    title: "Subscription",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSfxZKuO75xHTPNq8c2eC1VOTr5A6RZxQf0ZDYLECn7VQn96zQ/viewform?usp=sf_link",
+    target: "_blank",
+  },
+  {
     title: "GitHub",
-    link: "https://github.com/infinity-ooo/astro-theme-mia",
+    link: "https://github.com/bowling00",
+    target: "_blank",
+  },
+  {
+    title: "Contact",
+    link: "mailto:zhangbaolin.work@foxmail.com",
     target: "_blank",
   },
 ];
 
-export const FOOTER_CONTENT = "Let's build a 1B unicorn 🦄";
+export const FOOTER_CONTENT = "Let's make infinite progress together. 🦄";
 
-export const GOOGLE_GTAG = "G-XXXXXXXXXX";
+export const GOOGLE_GTAG = "G-ZV2GG5EET8";
