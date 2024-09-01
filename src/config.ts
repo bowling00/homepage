@@ -21,9 +21,9 @@ export const MENUS = [
     target: "_self",
   },
   {
-    title: "Contact",
-    link: "mailto:zhangbaolin.work@foxmail.com",
-    target: "_blank",
+    title: "About",
+    link: "/posts/subscription",
+    target: "_self",
   }
 ];
 
