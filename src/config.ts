@@ -2,7 +2,8 @@ export const SITE_FAVICON = "/favicon.png";
 export const SITE_LOGO = "/avatar.png";
 export const SITE_TITLE = "dvlin";
 export const SITE_DESCRIPTION =
-  "dvlin's blog, sharing technology, life, and thoughts。张保林的博客，分享技术、生活和思考。";
+  // "dvlin's blog, sharing technology, life, and thoughts。张保林的博客，分享技术、生活和思考。";
+  "feedId:61965685416993792+userId:54785964010995712";
 
 export const MENUS = [
   {
